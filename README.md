@@ -1,7 +1,11 @@
 # il6pred: A method for predicting and desiging IL-6 inducing peptides.
 Several methods have been developed for the prediction of the antigenic regions for subunit vaccines designing. Interleukin-6 (IL-6) is a rapidly produced proinflammatory cytokine generated as an immune response in various infections and tissue injuries. The elevated level of IL-6 causes cytokine release syndrome(CRS) in severe COVID-19 patients. Based on existing knowledge, we develop an in silico tool that allows the user to predict, scan, and map the IL-6 inducing/non-inducing peptides.
+
 ## Reference
 Dhall A, Patiyal S, Sharma N, Usmani SS, Raghava GPS (2020) Computer-aided prediction and design of IL-6 inducing peptides: IL-6 plays a crucial role in COVID-19. <a href="https://pubmed.ncbi.nlm.nih.gov/33034338/"> Brief Bioinform. 22(2):936-945 </a>.
+
+## Dataset folder
+Contain all the datasets
 
 ## Pip installation
 The pip version of IL6pred is also available for easy installation and usage of the tool. The following command is required to install the package 
