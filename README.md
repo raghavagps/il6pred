@@ -4,6 +4,9 @@ Several methods have been developed for the prediction of the antigenic regions 
 ## Reference
 Dhall A, Patiyal S, Sharma N, Usmani SS, Raghava GPS (2020) Computer-aided prediction and design of IL-6 inducing peptides: IL-6 plays a crucial role in COVID-19. <a href="https://pubmed.ncbi.nlm.nih.gov/33034338/"> Brief Bioinform. 22(2):936-945 </a>.
 
+## Zenodo
+https://doi.org/10.5281/zenodo.20033778
+
 ## Dataset folder
 Contain all the datasets
 
